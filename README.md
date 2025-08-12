@@ -48,11 +48,11 @@ Sebelum membuat issue, pastikan Anda sudah membaca panduan ini agar laporan Anda
 - Gunakan bahasa yang sopan dan jelas 🙏  
 - Sertakan bukti pendukung (screenshot, log, video)  
 - Pastikan masalah belum pernah dilaporkan sebelumnya  
-- Untuk request fitur, jelaskan manfaatnya bagi pengguna  
+- Untuk request fitur, jelaskan secara detail dan beri website nya untuk contoh jika ada 
 
 ---
 
 💡 **Catatan**  
-Jika issue Anda memerlukan penanganan cepat, sertakan label **priority** atau hubungi maintainer.
+Jika issue Anda memerlukan penanganan cepat, sertakan label **priority** atau hubungi saya di telegram `@betabotz`
 
 Terima kasih atas kontribusi Anda! ❤️  
