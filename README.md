@@ -11,7 +11,7 @@ Sebelum membuat issue, pastikan Anda sudah membaca panduan ini agar laporan Anda
 | 🏷 Jenis Issue   | 📖 Deskripsi Singkat                                     | 📌 Contoh Judul                                   |
 |------------------|---------------------------------------------------------|---------------------------------------------------|
 | ✨ Request Fitur | Permintaan penambahan fitur baru atau peningkatan fitur  | `[FEATURE] Tambah endpoint untuk filter data`     |
-| 🐞 Bug           | Laporan kesalahan/error pada sistem atau API            | `[BUG] Response 500 saat memanggil /get-users`    |
+| 🐞 Bug           | Laporan kesalahan/error pada sistem atau API            | `[BUG] Response 500 saat memanggil /api`    |
 | 📚 Lain-lain     | Pertanyaan, dokumentasi, atau hal di luar dua kategori di atas | `[DOCS] Perlu dokumentasi autentikasi API` |
 
 ---
